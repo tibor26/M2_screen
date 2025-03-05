@@ -1,0 +1,4 @@
+# download STM32U5x pack from https://www.keil.com/pack/Keil.STM32U5xx_DFP.3.0.0.pack
+# decompress and put in this folder
+pack:
+  - Keil.STM32U5xx_DFP.3.0.0

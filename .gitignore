@@ -1,0 +1,26 @@
+# Visual Studio
+VisualStudio/build
+VisualStudio/.vs
+VisualStudio/.visualgdb
+VisualStudio/*.user
+VisualStudio/Keil.STM32U5xx_DFP.3.0.0
+.vs/
+.visualgdb/
+
+
+*.bin
+*.hex
+*.csv
+*.png
+*.d
+*.o
+
+# MDK-ARM
+MDK-ARM/Test_Demo/
+
+# STM32CubeIDE
+Debug/
+Release/
+.settings/
+*.launch
+mx.scratch

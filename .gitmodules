@@ -1,0 +1,6 @@
+[submodule "GUI/M2_ui"]
+	path = GUI/M2_ui
+	url = git@bitbucket.org:nama-product/M2_ui.git
+[submodule "GUI/lvgl"]
+	path = GUI/lvgl
+	url = https://github.com/lvgl/lvgl.git
